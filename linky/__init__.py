@@ -6,5 +6,5 @@ __AUTHOR__ = "Anthony Pizzimenti"
 __EMAIL__ = "pizzimentianthony@gmail.com"
 __LICENSE__ = "MIT"
 
-from tools import *
-from core import Link
+from linky.tools import *
+from linky.core import Link
