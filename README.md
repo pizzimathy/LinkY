@@ -45,7 +45,7 @@ LinkY will identify the main package and retrieve the specified entry point file
 `$ linky link` or `$linky -l` wires up an executable file and globally installs your package. In our example, running
 `$ any_command` will run the specified entry point file.
 
-`$ linky unlink` or `$ linky -u` uninstalls the your package and disables the specified command.
+`$ linky unlink` or `$ linky -u` uninstalls your package and disables the specified command.
 
 ### notes
 - unlinking does not delete your package or files
