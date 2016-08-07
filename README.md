@@ -3,6 +3,8 @@
 LinkY allows people creating command line interfaces to test their commands and packages
 easily. The program creates globally installed symlinks for specified packages and
 commands so that you can test your package structures, specify your commands, and run tests.
+This is essentially an implementation of [`npm link`](https://docs.npmjs.com/cli/link) for
+Python.
 
 ### configuration
 Consider a sample directory structure:
